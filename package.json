@@ -7,7 +7,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/shooontan/gatsby-plugin-draft.git"
+    "url": "https://github.com/ikomiki/gatsby-plugin-draft"
   },
   "dependencies": {
     "moment-timezone": "^0.5.23"
@@ -20,7 +20,7 @@
     "prettier": "^1.16.4"
   },
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "gatsby": "^3.0.0"
   },
   "scripts": {
     "lint": "prettier --check './**/*.js'",
